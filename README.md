@@ -14,6 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### I am an aspiring software engineer currently in the learning process,
-### i love being a team member, i am open minded i like learning new skills
-### that are productive.
+### I am an aspiring software engineer currently in the learning process, i love being a team member, i am open minded i like learning new skills that are productive.
