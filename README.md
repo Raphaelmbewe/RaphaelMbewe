@@ -5,7 +5,7 @@
   
   
   
-### - 🔭 I’m currently working on a on a project with a team at devcareers internship.
+### - 🔭 I’m currently working on a project with a team at devcareers, where i am doing an  internship.
 ### - 🌱 I’m currently learning JS and Flutter
 ### - ⚡ Fun fact:listening to music and internet surfing.
 
