@@ -35,8 +35,9 @@
 <span>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Raphaelmbewe&count_private=true&show_icons=true&theme=tokyonight&hide=stars" alt="raphael" />
 </span>
+<hr>
 <span>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raphaelmbewe&hide=php&layout=compact&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raphaelmbewe&hide=php&layout=compact&theme=tokyonight" />
 </span>
 
 [website]: https://.com
