@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-### I am Raphael 
-- i am an aspiring software engineer currently in the learning process, i love being a team member, <br/>i am open minded i like learning new skills that are productive.
+### I am <em>Raphael</em> 
+> i am an aspiring software engineer currently in the learning process, i love being a team member, <br/>i am open minded i like learning new skills that are productive.
   
   
   
