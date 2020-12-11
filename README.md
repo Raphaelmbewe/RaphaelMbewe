@@ -6,7 +6,7 @@
   
   
 ### - 🔭 I’m currently working on a project with a team at Devcareer, where i am doing an  internship.
-### - 🌱 I’m currently learning JS and Flutter
+### - 🌱 I’m currently learning JS(NODEJS) and MONGODB 
 ### - ⚡ Fun fact:listening to music and internet surfing.
 
 ### Let's get talking
