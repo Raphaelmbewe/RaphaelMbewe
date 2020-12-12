@@ -43,5 +43,5 @@
 [website]: https://.com
 [twitter]: https://twitter.com/RaphaelMbewe12
 [facebook]: https://mobile.facebook.com/raphael.mbewe.56
-[linkedin]: https://www.linkedin.com/in/raphael-mbewe-005201142/
+[linkedin]: https://www.linkedin.com/in/aeltech
 
