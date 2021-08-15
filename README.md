@@ -5,8 +5,8 @@
   
   
   
-### - 🔭 I’m currently working on a project with a team at Devcareer, where i am doing an  internship.
-### - 🌱 I’m currently learning JS(NODEJS) and MONGODB 
+### - 🔭 I’m currently working on a project with an amazing team at ComGrow as a frontend developer.
+### - 🌱 I’m currently learning PHP and MYSQL 
 ### - ⚡ Fun fact:listening to music and internet surfing.
 
 ### Let's get talking
@@ -27,6 +27,8 @@
 [<img align="left" alt="dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />][website]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/git/git.png" />][website]
+[<img align="left" alt="ReacJs" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/reactjs/reactjs.png" />][website]
+[<img align="left" alt="ReactNative" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/reactnative/reactnative.png" />][website]
 [<img align="left" alt="flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />][website]
 [<img align="left" alt="bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][website]
 <br />
