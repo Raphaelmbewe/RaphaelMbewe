@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 ### I am <em>Raphael</em> 
-> i am an aspiring software engineer currently in the learning process, i love being a team member, <br/>i am open minded i like learning new skills that are productive.
+> Aspiring software engineer currently in the learning process, I love being a team member, <br/>I am open minded I like learning new skills that are productive.
   
   
   
-### - 🔭 I’m currently working on a project with an amazing team at ComGrow as a frontend developer.
+### - 🔭 I’m currently looking for exicting projects to be part of 😊.
 ### - 🌱 I’m currently learning PHP and MYSQL 
-### - ⚡ Fun fact:listening to music and internet surfing.
+### - ⚡ When I am free , I love :  listening to music, internet surfing and reading books.
 
 ### Let's get talking
 
