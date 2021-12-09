@@ -6,7 +6,7 @@
   
   
 ### - 🔭 I’m currently looking for exicting projects to be part of 😊.
->🌱 I’m currently learning PHP and MYSQL 
+> 🌱 I’m currently learning PHP and MYSQL <br/>
 > ⚡ When I am free , I love :  listening to music, internet surfing and reading books.
 
 ### Let's get talking
