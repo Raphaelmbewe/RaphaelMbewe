@@ -1,8 +1,5 @@
 [![@raphael's Holopin board](https://holopin.io/api/user/board?user=raphael)](https://holopin.io/@raphael)
 
-### Hi there 👋
-
-### I am <em>Raphael</em> 
 > Motivated software developer with a passion for learning new skills and a strong commitment to personal and professional growth. Skilled in React JS and React-Native, with experience in collaborating on projects and conducting peer-to-peer code reviews. Seeking a new opportunity to make a positive impact as a front-end developer.
   
 
