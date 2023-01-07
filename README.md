@@ -5,11 +5,6 @@
 ### I am <em>Raphael</em> 
 > Motivated software developer with a passion for learning new skills and a strong commitment to personal and professional growth. Skilled in React JS and React-Native, with experience in collaborating on projects and conducting peer-to-peer code reviews. Seeking a new opportunity to make a positive impact as a front-end developer.
   
-  
-  
-### - 🔭 I’m currently looking for exicting projects to be part of 😊.
-> 🌱 I’m currently learning PHP and MYSQL <br/>
-> ⚡ When I am free , I love :  listening to music, internet surfing and reading books.
 
 ### Let's get talking
 
