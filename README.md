@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 ### I am <em>Raphael</em> 
-> Aspiring software engineer currently in the learning process, I love being a team member, <br/>I am open minded I like learning new skills that are productive.
+> Motivated software developer with a passion for learning new skills and a strong commitment to personal and professional growth. Skilled in React JS and React-Native, with experience in collaborating on projects and conducting peer-to-peer code reviews. Seeking a new opportunity to make a positive impact as a front-end developer.
   
   
   
