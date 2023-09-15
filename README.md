@@ -25,9 +25,7 @@
 <br />
 <br />
 ---
-<span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Raphaelmbewe&count_private=true&show_icons=true&theme=tokyonight=stars&include_all_commits=true" alt="raphael" />
-</span>
+
 
 <span>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raphaelmbewe&hide=php&layout=compact&theme=tokyonight" />
