@@ -1,5 +1,5 @@
 
-> Motivated software developer with a passion for learning new skills and a strong commitment to personal and professional growth. Skilled in React JS and React-Native, with experience in collaborating on projects and conducting peer-to-peer code reviews. Seeking a new opportunity to make a positive impact as a front-end developer.
+> Motivated software developer with a passion for learning new skills and a strong commitment to personal and professional growth. While my educational background includes classroom-based knowledge of electrical and electronics engineering , my focus has been on software development. Skilled in React JS and React-Native, with experience in collaborating on projects and conducting peer-to-peer code reviews. Seeking a new opportunity to make a positive impact as a front-end developer or in a related field that combines my software development expertise with my interest in electrical and electronics engineering.
   
 
 ### Let's get talking
